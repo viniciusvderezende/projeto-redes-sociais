@@ -6,4 +6,7 @@
 
 Para acessar o projeto, basta escanear o QR code abaixo.
 
+<img src="imagens/frame (1).png" alt="QR Code do projeto" width="200">
+
+
 
